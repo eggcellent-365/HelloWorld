@@ -4,6 +4,7 @@ metadata:
   name: HelloWorld
   annotations:
     github.com/project-slug: eggcellent-365/HelloWorld
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
